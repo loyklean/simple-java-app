@@ -5,12 +5,12 @@ package com.mycompany.app;
  */
 public class App {
 
-    private static final String MESSAGE = "I love Jenkins but not today";
+    private static final String MESSAGE = "I love Jenkins";
 
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Simulating stupid error");
+        System.out.println("Everything is ok again !");
     }
 
     public String getMessage() {
